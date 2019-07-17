@@ -1,4 +1,4 @@
-Small exercices in Ruby -- RSpec 3 Edition
+# The Hacking Project - Jour 6 - Small exercices in Ruby
 ==========
 
 ### Set up instructions
