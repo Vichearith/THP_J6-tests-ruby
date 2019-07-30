@@ -1,4 +1,4 @@
-# The Hacking Project - Jour 6 - Small exercices in Ruby
+# The Hacking Project - Semaine 2 - Lundi
 ==========
 
 ### Set up instructions
